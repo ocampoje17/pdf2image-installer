@@ -1,9 +1,10 @@
 {
-	"version": "1.4.3",
-	"releaseDate": "2025-10-19",
-	"downloadUrl": "https://github.com/ocampoje17/pdf2image-installer/raw/refs/heads/main/Pdf2Image_1.4.3_x64_en-US.msi",
+	"version": "1.4.4",
+	"releaseDate": "2025-10-20",
+	"downloadUrl": "https://github.com/ocampoje17/pdf2image-installer/raw/refs/heads/main/Pdf2Image_1.4.4_x64_en-US.msi",
 	"releaseNotes": [
-		"Sửa lỗi kiểm tra cập nhật và một số lỗi nhỏ"
+		"Bổ sung thêm tính năng thay đổi background của app",
+		"Sửa lỗi nhỏ"
 	],
 	"critical": true
 }
