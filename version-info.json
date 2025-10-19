@@ -1,0 +1,10 @@
+{
+	"version": "1.3.0",
+	"releaseDate": "2025-10-20",
+	"downloadUrl": "https://github.com/namhnz/convert-pdf-to-images/releases/latest",
+	"releaseNotes": {
+		"vi": ["Tính năng mới 1", "Tính năng mới 2", "Sửa lỗi xyz"],
+		"en": ["New feature 1", "New feature 2", "Fixed xyz bug"]
+	},
+	"critical": false
+}
