@@ -24,7 +24,7 @@
 
 ## Cài đặt
 
-1. Tải file cài đặt.
+1. Tải file cài đặt. (⚠️⚠️⚠️ LƯU Ý, ĐỐI VỚI CÀI ĐẶT LẦN ĐẦU THÌ CÁC BẠN HÃY TẢI FILE CÓ ĐUÔI .EXE (không phải .msi) ĐỂ TỰ ĐỘNG TẢI WEBVIEW2 NẾU CẦN THIẾT NHÉ)
 2. Nhấp đúp để chạy trình cài đặt, chọn Next theo hướng dẫn.
 3. Sau khi hoàn tất, mở ứng dụng PDF2Image từ Start Menu hoặc shortcut trên Desktop.
 

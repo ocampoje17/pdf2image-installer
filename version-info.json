@@ -1,10 +1,13 @@
 {
-	"version": "1.4.4",
-	"releaseDate": "2025-10-20",
-	"downloadUrl": "https://github.com/ocampoje17/pdf2image-installer/raw/refs/heads/main/Pdf2Image_1.4.4_x64_en-US.msi",
+	"version": "1.5.0",
+	"releaseDate": "2025-10-22",
+	"downloadUrl": "https://github.com/ocampoje17/pdf2image-installer/raw/refs/heads/main/Pdf2Image_1.5.0_x64_en-US.msi",
 	"releaseNotes": [
-		"Bổ sung thêm tính năng thay đổi background của app",
-		"Sửa lỗi nhỏ"
+		"Bổ sung thêm tính năng OCR ảnh sang văn bản",
+		"Sửa lỗi đối với tuỳ chọn tự động đổi tên các file ảnh kết quả",
+		"Bổ sung hiển thị các ảnh đầu ra dưới dạng thu nhỏ trong giao diện người dùng",
+		"Bổ sung cho phép file input là các file ảnh",
+		"Sửa các lỗi nhỏ khác"
 	],
-	"critical": false
+	"critical": true
 }
